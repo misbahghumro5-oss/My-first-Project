@@ -1,0 +1,7 @@
+duration,packets,failed_logins,label
+10,200,0,normal
+50,500,3,attack
+5,100,0,normal
+60,700,5,attack
+20,300,1,normal
+80,900,7,attack
